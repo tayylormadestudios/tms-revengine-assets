@@ -1,0 +1,14 @@
+# Node.js modules (in case you automate stuff locally)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# VSCode project folder
+.vscode/
+
+# Logs and runtime
+*.log
+.env
+dist/
+build/
